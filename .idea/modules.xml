@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dz/HW-2.2.1/HW-2.2.1.iml" filepath="$PROJECT_DIR$/dz/HW-2.2.1/HW-2.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz/HW-2.6.4/HW-2.6.4.iml" filepath="$PROJECT_DIR$/dz/HW-2.6.4/HW-2.6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz/HW-2.6.5/HW-2.6.5.iml" filepath="$PROJECT_DIR$/dz/HW-2.6.5/HW-2.6.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz/HW-2.6.questions/HW-2.6.questions.iml" filepath="$PROJECT_DIR$/dz/HW-2.6.questions/HW-2.6.questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/dz/HomeWork-2.2questions/HomeWork-2.2questions.iml" filepath="$PROJECT_DIR$/dz/HomeWork-2.2questions/HomeWork-2.2questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/dz/HomeWork-2.6.4/HomeWork-2.6.4.iml" filepath="$PROJECT_DIR$/dz/HomeWork-2.6.4/HomeWork-2.6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz/dz.iml" filepath="$PROJECT_DIR$/dz/dz.iml" />
       <module fileurl="file://$PROJECT_DIR$/samsung.iml" filepath="$PROJECT_DIR$/samsung.iml" />
     </modules>
   </component>

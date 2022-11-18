@@ -2,19 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ec479e-9a3c-462d-b4a2-77fc114026eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz/HomeWork-2.2questions/HomeWork-2.2questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.2.1/src/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.2.1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.4/src/Animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.4/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.4/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.4/src/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/HW-2.6.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Electrical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Liveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Numerical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Unknowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.questions/HW-2.6.questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.questions/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.questions/src/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/HW-2.6.questions/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz/dz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz/HomeWork-2.2questions/HomeWork-2.2questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dz/HW-2.2.1/HW-2.2.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz/HomeWork-2.2questions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dz/HW-2.6.5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz/HomeWork-2.6.4/HomeWork-2.6.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dz/HW-2.6.4/HW-2.6.4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz/HomeWork-2.6.4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dz/HW-2.6.questions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dz/HW-2.6.4/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,20 +50,51 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Hi35X65ZVG3MJ2cB0RB2TYWm2N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19"
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "D:/programs/java/repositories/samsung"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programs\java\repositories\samsung\dz\HomeWork-2.6.4\src" />
+      <recent name="D:\programs\java\repositories\samsung\dz\HomeWork-2.6.questions\src" />
+      <recent name="D:\programs\java\repositories\samsung\dz\HomeWork-2.6.5\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programs\java\repositories\samsung\dz" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW-2.2.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW-2.6.4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HomeWork-2.2questions" />
@@ -46,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -71,5 +131,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
